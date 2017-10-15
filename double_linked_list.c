@@ -1,3 +1,4 @@
+// author= jatin kumar
 // implementation of doubly linked list
 #include<stdio.h>
 #include<stdlib.h>
