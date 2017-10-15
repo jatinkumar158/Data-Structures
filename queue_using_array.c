@@ -1,3 +1,4 @@
+// author= jatin kumar
 // implementing a queue with the help of an array
 // the queue implemented is circular queue as it is most widely used
 // there are several disadvantages of simple queue like the space can't be used again
