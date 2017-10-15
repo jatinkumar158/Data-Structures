@@ -1,3 +1,4 @@
+// author= jatin kumar
 //stack implementation using the linked list
 #include<stdio.h>
 #include<stdlib.h>
