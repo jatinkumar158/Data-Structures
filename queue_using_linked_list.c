@@ -1,3 +1,4 @@
+// author= jatin kumar
 // implementing a queue using linked list
 #include<stdio.h>
 #include<stdlib.h>
