@@ -1,3 +1,4 @@
+// author= jatin kumar
 //stack implementation using an array
 #include<stdio.h>
 #define max 5
