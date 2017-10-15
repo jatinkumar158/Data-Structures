@@ -1,3 +1,4 @@
+// author= jatin kumar
 // implementation of queue using two stacks
 #include<stdio.h>
 #define max 6
