@@ -1,3 +1,4 @@
+// author= jatin kumar
 // program to evaluate a postfix expression
 #include<stdio.h>
 #include<string.h>
