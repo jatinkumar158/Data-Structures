@@ -63,8 +63,8 @@ int main()
 				break;
 		case 9:deletevalue();
 				break;
-		//case 10:search();
-		//		break;
+		case 10:search();
+				break;
 		case 11:largest();
 				break;
 		case 12:smallest();
