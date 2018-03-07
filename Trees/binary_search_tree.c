@@ -101,7 +101,7 @@ struct node* deletenode(struct node *t,int value)
 	// if node find then delete it
 	else
 	{
-		// check if  node is leaf node
+		// check if node is leaf node
 		if(t->left==NULL && t->right==NULL)
 		{
 			free(t);
