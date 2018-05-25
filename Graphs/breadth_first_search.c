@@ -1,4 +1,4 @@
-// implementing breadth first traversal in graphs
+// implementing breadth first search in graphs
 // Author: Kumar Jatin
 #include<stdio.h>
 #include<stdlib.h>
