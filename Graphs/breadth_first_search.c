@@ -109,13 +109,13 @@ void BFS(int u)
 }
 void enqueue(int x)
 {	
-	// not fully implemented but sufficient fot this algo
+	// not fully implemented but sufficient for this algo
 	rear=rear+1;
 	queue[rear]=x;
 }
 int dequeue()
 {	
-	// not fully implemented but sufficient fot this algo
+	// not fully implemented but sufficient for this algo
 	front=front+1;
 	return (queue[front]);
 }
